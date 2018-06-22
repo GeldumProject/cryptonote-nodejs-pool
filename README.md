@@ -748,7 +748,7 @@ Credits
 
 * [fancoder](//github.com/fancoder) - Developper on cryptonote-universal-pool project from which current project is forked.
 * [dvandal](//github.com/dvandal) - Developper on cryptonote-nodejs-pool project from which current Geldum project is forked.
-* [nanze](//github.com/nanze) - Developer who actually mantain the pool.
+* [nanze](//github.com/nanzee) - Developer who actually mantain the pool.
 
 License
 -------

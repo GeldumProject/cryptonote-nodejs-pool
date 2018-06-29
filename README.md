@@ -101,21 +101,16 @@ Community / Support
 
 * [GitHub Wiki](https://github.com/dvandal/cryptonote-nodejs-pool/wiki)
 * [GitHub Issues](https://github.com/dvandal/cryptonote-nodejs-pool/issues)
+* [Geldum Telegram Group](http://t.me/geldum)
 * [Telegram Group](http://t.me/CryptonotePool)
 
 #### Pools Using This Software
 
-* https://graft.blockhashmining.com/
-* https://haven.blockhashmining.com/
-* https://loki.blockhashmining.com/
-* https://masari.blockhashmining.com/
-* https://stellite.blockhashmining.com/
-* https://graft.anypool.net/
-* https://graft.dark-mine.su/
-* http://itns.proxpool.com/
-* https://bytecoin.pt
-* http://ita.minexmr24.ru/
-* https://pool.croatpirineus.cat
+* http://www.geldumpool.com
+* http://geldum.poolmining.xyz/
+* http://youpool.io/GDM/
+* http://superblockchain.con-ip.com/gdm/
+
 
 Usage
 ===

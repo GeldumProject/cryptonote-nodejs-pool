@@ -546,7 +546,7 @@ Variable explanations:
 var api = "http://geldumpool.com:8117";
 
 var email = "support@poolhost.com";
-var telegram = "https://t.me/YourPool";
+var telegram = "https://t.me/geldum";
 var discord = "https://discordapp.com/invite/YourPool";
 
 var marketCurrencies = ["{symbol}-BTC", "{symbol}-USD", "{symbol}-EUR", "{symbol}-CAD"];

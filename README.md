@@ -543,37 +543,18 @@ Variable explanations:
 
 ```javascript
 
-/* Must point to the API setup in your config.json file. */
-var api = "http://poolhost:8117";
+var api = "http://geldumpool.com:8117";
 
-/* Pool server host to instruct your miners to point to (override daemon setting if set) */
-var poolHost = "poolhost.com";
-
-/* Number of coin decimals places (override daemon setting if set) */
-"coinDecimalPlaces": 4,
-
-/* Contact email address. */
 var email = "support@poolhost.com";
-
-/* Pool Telegram URL. */
 var telegram = "https://t.me/YourPool";
-
-/* Pool Discord URL */
 var discord = "https://discordapp.com/invite/YourPool";
 
-/* Market stat display params from https://www.cryptonator.com/widget */
 var marketCurrencies = ["{symbol}-BTC", "{symbol}-USD", "{symbol}-EUR", "{symbol}-CAD"];
 
-/* Used for front-end block links. */
 var blockchainExplorer = "http://chainradar.com/{symbol}/block/{id}";
-
-/* Used by front-end transaction links. */
 var transactionExplorer = "http://chainradar.com/{symbol}/transaction/{id}";
 
-/* Any custom CSS theme for pool frontend */
-var themeCss = "themes/light.css";
-
-/* Default language */
+var themeCss = "themes/default.css";
 var defaultLang = 'en';
 
 ```
